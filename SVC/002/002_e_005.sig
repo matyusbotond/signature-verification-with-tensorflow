@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<Signature xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EndPoints />
+  <DirectionChanges />
+  <Tremors />
+  <Cog>
+    <X>0</X>
+    <Y>0</Y>
+  </Cog>
+  <TrimmedBounds>
+    <Location>
+      <X>0</X>
+      <Y>0</Y>
+    </Location>
+    <Size>
+      <Width>0</Width>
+      <Height>0</Height>
+    </Size>
+    <X>0</X>
+    <Y>0</Y>
+    <Width>0</Width>
+    <Height>0</Height>
+  </TrimmedBounds>
+  <Angle>0</Angle>
+  <Strokes>
+    <Stroke ver="3.0">
+      <Points>52;47;0;0;0;E|53;51;0;0;0;N|53;44;0;0;0;N|55;36;0;0;0;N|62;27;0;0;0;N|73;21;0;0;0;N|91;16;0;0;0;N|109;13;0;0;0;N|127;12;0;0;0;N|140;12;0;0;0;N|148;14;0;0;0;E|</Points>
+    </Stroke>
+    <Stroke ver="3.0">
+      <Points>119;48;0;0;0;E|113;52;0;0;0;N|111;47;0;0;0;N|110;54;0;0;0;N|110;68;0;0;0;N|111;87;0;0;0;N|114;106;0;0;0;N|116;124;0;0;0;N|115;141;0;0;0;N|111;155;0;0;0;N|103;169;0;0;0;N|91;183;0;0;0;N|78;193;0;0;0;N|62;199;0;0;0;N|46;201;0;0;0;N|31;198;0;0;0;N|19;189;0;0;0;N|12;177;0;0;0;E|</Points>
+    </Stroke>
+    <Stroke ver="3.0">
+      <Points>190;128;0;0;0;E|190;129;0;0;0;N|188;130;0;0;0;N|185;139;0;0;0;N|185;149;0;0;0;N|187;161;0;0;0;N|192;169;0;0;0;N|196;172;0;0;0;N|201;173;0;0;0;N|206;170;0;0;0;N|210;163;0;0;0;N|214;153;0;0;0;N|217;141;0;0;0;N|217;129;0;0;0;N|216;118;0;0;0;N|212;113;0;0;0;N|206;114;0;0;0;N|197;117;0;0;0;N|185;125;0;0;0;N|173;134;0;0;0;N|165;142;0;0;0;N|159;146;0;0;0;N|158;147;0;0;0;N|163;146;0;0;0;N|170;141;0;0;0;N|185;132;0;0;0;N|203;121;0;0;0;N|224;111;0;0;0;N|243;107;0;0;0;N|257;105;0;0;0;N|266;109;0;0;0;N|271;114;0;0;0;N|272;119;0;0;0;N|272;127;0;0;0;N|270;135;0;0;0;N|266;144;0;0;0;N|262;150;0;0;0;N|258;154;0;0;0;N|257;157;0;0;0;N|257;157;0;0;0;N|257;154;0;0;0;N|262;150;0;0;0;N|270;139;0;0;0;N|279;128;0;0;0;N|289;116;0;0;0;N|299;111;0;0;0;N|305;112;0;0;0;N|308;116;0;0;0;N|309;124;0;0;0;N|308;134;0;0;0;N|309;145;0;0;0;N|311;152;0;0;0;N|316;158;0;0;0;N|322;163;0;0;0;N|329;163;0;0;0;N|337;160;0;0;0;N|348;154;0;0;0;N|362;143;0;0;0;N|376;130;0;0;0;N|388;115;0;0;0;N|398;103;0;0;0;N|400;98;0;0;0;N|399;95;0;0;0;N|396;97;0;0;0;N|389;105;0;0;0;N|381;116;0;0;0;N|373;129;0;0;0;N|371;140;0;0;0;N|371;151;0;0;0;N|373;157;0;0;0;N|377;160;0;0;0;N|387;159;0;0;0;N|399;152;0;0;0;N|415;141;0;0;0;N|433;126;0;0;0;N|453;111;0;0;0;N|465;101;0;0;0;N|473;93;0;0;0;N|477;90;0;0;0;N|479;93;0;0;0;N|481;99;0;0;0;N|485;108;0;0;0;N|490;116;0;0;0;N|497;122;0;0;0;N|504;127;0;0;0;N|509;133;0;0;0;N|513;138;0;0;0;N|515;143;0;0;0;N|513;149;0;0;0;N|509;155;0;0;0;N|501;160;0;0;0;E|</Points>
+    </Stroke>
+  </Strokes>
+  <LowerEnvelope />
+  <BaseLineIntercepts>0</BaseLineIntercepts>
+  <BaseLineArea>0</BaseLineArea>
+  <BaseLineInflexionPoints>0</BaseLineInflexionPoints>
+  <Name>002_e_005</Name>
+  <BaseLines>
+    <Vector>
+      <X>10</X>
+      <Y>209</Y>
+      <Vx>111</Vx>
+      <Vy>-41</Vy>
+      <Length>118.33004690272035</Length>
+    </Vector>
+    <Vector>
+      <X>156</X>
+      <Y>151</Y>
+      <Vx>363</Vx>
+      <Vy>-19</Vy>
+      <Length>363.49690507623308</Length>
+    </Vector>
+  </BaseLines>
+  <Endings2 />
+  <Loops>
+    <Loop>
+      <Perimeter>113.424</Perimeter>
+      <MaximumDiameter>49.040799340956916</MaximumDiameter>
+      <MaximumDiameterAngle>1.2812926548335084</MaximumDiameterAngle>
+      <InscribedDiameter>22</InscribedDiameter>
+      <BoundingCircleRadius>24.520399670478458</BoundingCircleRadius>
+      <Area>821.424</Area>
+      <MomentAxisAngle>0.85758332539900506</MomentAxisAngle>
+      <Formfactor>0.80235642330598633</Formfactor>
+      <Roundness>0.43487298120354934</Roundness>
+      <Compactness>0.6594489981822319</Compactness>
+      <Extent>INF</Extent>
+      <Solidity>1.0490727969348657</Solidity>
+      <Convexity>1.0191122761091396</Convexity>
+      <AspectRatio>2.2291272427707689</AspectRatio>
+      <ModificationRatio>0.4486060646574021</ModificationRatio>
+      <Centroid>
+        <X>201</X>
+        <Y>145</Y>
+      </Centroid>
+      <BoundingBox>
+        <Location>
+          <X>190</X>
+          <Y>122</Y>
+        </Location>
+        <Size>
+          <Width>24</Width>
+          <Height>48</Height>
+        </Size>
+        <X>190</X>
+        <Y>122</Y>
+        <Width>24</Width>
+        <Height>48</Height>
+      </BoundingBox>
+    </Loop>
+  </Loops>
+  <OriginalBounds>
+    <Location>
+      <X>0</X>
+      <Y>0</Y>
+    </Location>
+    <Size>
+      <Width>600</Width>
+      <Height>213</Height>
+    </Size>
+    <X>0</X>
+    <Y>0</Y>
+    <Width>600</Width>
+    <Height>213</Height>
+  </OriginalBounds>
+  <Width>600</Width>
+  <Height>213</Height>
+</Signature>

@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<Signature xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EndPoints />
+  <DirectionChanges />
+  <Tremors />
+  <Cog>
+    <X>0</X>
+    <Y>0</Y>
+  </Cog>
+  <TrimmedBounds>
+    <Location>
+      <X>0</X>
+      <Y>0</Y>
+    </Location>
+    <Size>
+      <Width>0</Width>
+      <Height>0</Height>
+    </Size>
+    <X>0</X>
+    <Y>0</Y>
+    <Width>0</Width>
+    <Height>0</Height>
+  </TrimmedBounds>
+  <Angle>0</Angle>
+  <Strokes>
+    <Stroke ver="3.0">
+      <Points>29;24;0;0;0;E|32;23;0;0;0;N|35;21;0;0;0;N|37;18;0;0;0;N|45;15;0;0;0;N|55;13;0;0;0;N|66;11;0;0;0;N|73;11;0;0;0;N|80;11;0;0;0;N|86;11;0;0;0;N|90;11;0;0;0;N|93;11;0;0;0;E|</Points>
+    </Stroke>
+    <Stroke ver="3.0">
+      <Points>75;45;0;0;0;E|75;63;0;0;0;N|74;86;0;0;0;N|74;113;0;0;0;N|75;141;0;0;0;N|75;167;0;0;0;N|76;190;0;0;0;N|75;211;0;0;0;N|74;227;0;0;0;N|71;241;0;0;0;N|67;254;0;0;0;N|61;266;0;0;0;N|53;277;0;0;0;N|44;284;0;0;0;N|34;288;0;0;0;N|24;289;0;0;0;N|17;287;0;0;0;N|11;279;0;0;0;E|</Points>
+    </Stroke>
+    <Stroke ver="3.0">
+      <Points>143;170;0;0;0;E|146;172;0;0;0;N|147;175;0;0;0;N|147;180;0;0;0;N|146;187;0;0;0;N|144;196;0;0;0;N|141;207;0;0;0;N|137;220;0;0;0;N|135;231;0;0;0;N|134;241;0;0;0;N|135;248;0;0;0;N|138;253;0;0;0;N|143;255;0;0;0;N|149;253;0;0;0;N|154;249;0;0;0;N|158;241;0;0;0;N|162;233;0;0;0;N|165;224;0;0;0;N|166;216;0;0;0;N|165;208;0;0;0;N|162;202;0;0;0;N|158;198;0;0;0;N|154;197;0;0;0;N|149;198;0;0;0;N|144;200;0;0;0;N|140;202;0;0;0;N|140;203;0;0;0;N|142;204;0;0;0;N|147;206;0;0;0;N|156;206;0;0;0;N|166;205;0;0;0;N|179;202;0;0;0;N|193;198;0;0;0;N|206;193;0;0;0;N|218;188;0;0;0;N|227;182;0;0;0;N|235;177;0;0;0;N|240;174;0;0;0;N|243;173;0;0;0;N|244;173;0;0;0;N|243;175;0;0;0;N|241;179;0;0;0;N|237;186;0;0;0;N|233;195;0;0;0;N|228;205;0;0;0;N|224;215;0;0;0;N|220;223;0;0;0;N|219;229;0;0;0;N|218;233;0;0;0;N|219;234;0;0;0;N|221;234;0;0;0;N|224;231;0;0;0;N|229;225;0;0;0;N|236;218;0;0;0;N|244;209;0;0;0;N|251;202;0;0;0;N|259;196;0;0;0;N|267;195;0;0;0;N|274;195;0;0;0;N|279;198;0;0;0;N|284;202;0;0;0;N|289;207;0;0;0;N|294;212;0;0;0;N|300;217;0;0;0;N|306;219;0;0;0;N|312;220;0;0;0;N|319;219;0;0;0;N|326;216;0;0;0;N|334;211;0;0;0;N|341;205;0;0;0;N|347;197;0;0;0;N|354;188;0;0;0;N|359;179;0;0;0;N|362;173;0;0;0;N|363;169;0;0;0;N|361;169;0;0;0;N|357;172;0;0;0;N|351;178;0;0;0;N|347;185;0;0;0;N|343;193;0;0;0;N|340;202;0;0;0;N|338;212;0;0;0;N|339;218;0;0;0;N|344;223;0;0;0;N|350;226;0;0;0;N|360;226;0;0;0;N|372;224;0;0;0;N|384;219;0;0;0;N|399;210;0;0;0;N|413;200;0;0;0;N|427;189;0;0;0;N|439;177;0;0;0;N|451;166;0;0;0;N|461;158;0;0;0;N|467;154;0;0;0;N|469;152;0;0;0;N|469;154;0;0;0;N|466;157;0;0;0;N|461;162;0;0;0;N|455;169;0;0;0;N|448;177;0;0;0;N|442;185;0;0;0;N|438;191;0;0;0;N|438;195;0;0;0;N|440;198;0;0;0;N|445;201;0;0;0;N|452;203;0;0;0;N|458;207;0;0;0;N|463;212;0;0;0;N|466;217;0;0;0;N|465;223;0;0;0;N|462;230;0;0;0;N|457;238;0;0;0;N|450;245;0;0;0;N|441;251;0;0;0;E|</Points>
+    </Stroke>
+  </Strokes>
+  <LowerEnvelope />
+  <BaseLineIntercepts>0</BaseLineIntercepts>
+  <BaseLineArea>0</BaseLineArea>
+  <BaseLineInflexionPoints>0</BaseLineInflexionPoints>
+  <Name>002_h_008</Name>
+  <BaseLines>
+    <Vector>
+      <X>9</X>
+      <Y>302</Y>
+      <Vx>71</Vx>
+      <Vy>-49</Vy>
+      <Length>86.2670273047588</Length>
+    </Vector>
+    <Vector>
+      <X>131</X>
+      <Y>223</Y>
+      <Vx>342</Vx>
+      <Vy>-7</Vy>
+      <Length>342.07162992566339</Length>
+    </Vector>
+  </BaseLines>
+  <Endings2 />
+  <Loops>
+    <Loop>
+      <Perimeter>106.496</Perimeter>
+      <MaximumDiameter>44.77722635447622</MaximumDiameter>
+      <MaximumDiameterAngle>1.1571071135160333</MaximumDiameterAngle>
+      <InscribedDiameter>18</InscribedDiameter>
+      <BoundingCircleRadius>22.38861317723811</BoundingCircleRadius>
+      <Area>704.496</Area>
+      <MomentAxisAngle>0.42783734839202892</MomentAxisAngle>
+      <Formfactor>0.780587879893129</Formfactor>
+      <Roundness>0.44737763905623107</Roundness>
+      <Compactness>0.668862944896958</Compactness>
+      <Extent>INF</Extent>
+      <Solidity>1.0452462908011868</Solidity>
+      <Convexity>1.01565739605405</Convexity>
+      <AspectRatio>2.48762368635979</AspectRatio>
+      <ModificationRatio>0.40199006203519805</ModificationRatio>
+      <Centroid>
+        <X>149</X>
+        <Y>228</Y>
+      </Centroid>
+      <BoundingBox>
+        <Location>
+          <X>139</X>
+          <Y>210</Y>
+        </Location>
+        <Size>
+          <Width>24</Width>
+          <Height>42</Height>
+        </Size>
+        <X>139</X>
+        <Y>210</Y>
+        <Width>24</Width>
+        <Height>42</Height>
+      </BoundingBox>
+    </Loop>
+  </Loops>
+  <OriginalBounds>
+    <Location>
+      <X>0</X>
+      <Y>0</Y>
+    </Location>
+    <Size>
+      <Width>600</Width>
+      <Height>301</Height>
+    </Size>
+    <X>0</X>
+    <Y>0</Y>
+    <Width>600</Width>
+    <Height>301</Height>
+  </OriginalBounds>
+  <Width>600</Width>
+  <Height>301</Height>
+</Signature>
